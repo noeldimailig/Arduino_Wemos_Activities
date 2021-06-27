@@ -1,0 +1,9 @@
+a, 7 pin2
+b, 6 pin3
+c, 4 pin4
+d, 2 pin5
+e, 1 pin6
+f, 9 pin7
+g, 10 pin8
+dp, 5 pin9
+3,8 - ground
